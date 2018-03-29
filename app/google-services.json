@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1064130025351",
+    "firebase_url": "https://trip-9c398.firebaseio.com",
+    "project_id": "trip-9c398",
+    "storage_bucket": "trip-9c398.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064130025351:android:2d1992b99a2461b4",
+        "android_client_info": {
+          "package_name": "eg.iti.losh.splash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064130025351-mkmi37ri94qim1ukm9o7tcl30on3vs0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eg.iti.losh.splash",
+            "certificate_hash": "c1b4b92fdb9611e5e1dff5259ec4b5843e90d514"
+          }
+        },
+        {
+          "client_id": "1064130025351-40m301lijn6v4dlluegdakhcacnas7nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWTnemT2Gpyl4AKYlDax-2s23M_Rpwq6k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064130025351-40m301lijn6v4dlluegdakhcacnas7nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
