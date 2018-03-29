@@ -34,10 +34,9 @@ dependencies {
     compile 'com.android.support:appcompat-v7:23.3.0'// for action bar
 
     compile 'com.github.apl-devs:appintro:v4.2.3'// for slider
-
+    compile 'com.google.android.gms:play-services-places:11.0.4'
     compile 'com.google.firebase:firebase-database:11.0.4'
     compile 'com.google.firebase:firebase-auth:11.0.4'
     compile 'com.google.firebase:firebase-core:11.0.4'
 
-}
-apply plugin: 'com.google.gms.google-services'
+}apply plugin: 'com.google.gms.google-services'
