@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#fff</color>
@@ -9,15 +8,3 @@
     <color name="slide3">#fff</color>
     <color name="white">#fff</color>
 </resources>
-=======
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="colorPrimary">#fff</color>
-    <color name="colorPrimaryDark">#fff</color>
-    <color name="colorAccent">#FF4081</color>
-    <color name="slid1">#FF4081</color>
-    <color name="slid2">#CE93D8</color>
-    <color name="slide3">#fff</color>
-    <color name="white">#fff</color>
-</resources>
->>>>>>> 827b854cb00701fef655b6795d534fc109d9bb5f

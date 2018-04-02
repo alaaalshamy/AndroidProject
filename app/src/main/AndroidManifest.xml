@@ -16,10 +16,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".Spalsh">
-              <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+
 
         </activity>
         <activity android:name=".MainActivity" />
@@ -31,9 +28,19 @@
             android:name=".LoginActivity"
             android:label="@string/title_activity_login" />
         <activity android:name=".addTrip">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivityasmeen">
 
         </activity>
         <activity android:name=".TripDeatails"></activity>
+
+        <activity android:name=".AlarmReceiverActivity"></activity>
+        <service android:name=".ScheduleService" />
+        <service android:name=".NotifyService" />
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"

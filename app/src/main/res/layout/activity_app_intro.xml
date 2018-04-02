@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -10,16 +9,3 @@
     tools:context="eg.iti.losh.splash.AppIntroClass">
 
 </android.support.constraint.ConstraintLayout>
-=======
-<?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="@android:color/holo_red_dark"
-
-    tools:context="eg.iti.losh.splash.AppIntroClass">
-
-</android.support.constraint.ConstraintLayout>
->>>>>>> 827b854cb00701fef655b6795d534fc109d9bb5f
